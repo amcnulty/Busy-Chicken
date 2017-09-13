@@ -16,4 +16,4 @@ An animation about a very busy chicken. This is meant for use in the browser (mo
 
 ## Link
 Here is a link to the live example
-[Live Example](https://amcnulty.github.io/Busy-Chicken/, "A video about a very busy chicken!")
+[Live Example](https://amcnulty.github.io/Busy-Chicken/ "A video about a very busy chicken!")
